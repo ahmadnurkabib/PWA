@@ -1,0 +1,23 @@
+{
+    "name": "ahmadservicecenter.com",
+    "short_name": "ASC Files",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhMS3HrDZwWWgcR7lAKxk--8mr7lZBLemb0WlfIhA5aFNyMo3Y8h7eXyg97ovMhH3c-9AVyMcZKhN4deHM7QwtTYtmxVeory2JUX5-2pzqd0O6_jmpX_QWQSvmPakjawPc3-rDpe5W9xOkz711TctVHChwaE18qhvQvNnxwq16OC7WX8tGHnH_B24jF=s512",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhRsH85MS3dHkWPyklM_szxhEl07lBUx1N_YA4ldeCTopfAlostNwKzvQgZxcMkD02s8o8z7HcZSZHyVC6QKmEZj1iNfx-Uk5bZcmAplfET9tukuGYnndOOuu4tiRCuh9ib7NeGvK_0T-BOtG5k0aCjU8IbayDGKne_If4-NpCqDe5-fKyn0xKO0Bqw=s192",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.ahmadservicecenter.com"
+}
