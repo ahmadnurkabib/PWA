@@ -30,5 +30,18 @@
   "categories": [
     "education"
   ],
-  "description": "ASC FILES adalah website dari youtube ahmad service center kami adalah solusi file file yang susah di cari , kami juga menyediakan jasa remot service."
+  "description": "ASC FILES adalah website dari youtube ahmad service center kami adalah solusi file file yang susah di cari , kami juga menyediakan jasa remot service.",
+  "iarc_rating_id": "cfabc1a1-f869-4884-94d6-fa111f0e29f7",
+  "shortcuts": [
+    {
+      "name": "ASC Files© Desktop",
+      "url": "https://www.ahmadservicecenter.com/",
+      "icons": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-8eCBx3CEY39O27U-1sB_alih9yc7IDAj0LcY9u7zaBSbsNQuP_tWnYP8nIyVGTkn3M6d_dxUhi83hhQB5Hn0578lqvNGRSxfktZR0umxDHSVCxYDK5cBwZmdyZWwh47n2SUAZzZw2_oC2PYmS6RFyQFMmQ3Q8yqK3EnY846xDcvhVUCDeY7EHiWy/s192/android-icon-192x192.png"
+        }
+      ],
+      "description": "By ahmadservicecenter.com"
+    }
+  ]
 }
