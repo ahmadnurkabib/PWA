@@ -15,7 +15,7 @@
             "purpose": "any"
         }
     ],
-    "theme_color": "#3291d1",
+    "theme_color": "#1200FF",
     "background_color": "#ffffff",
     "display": "standalone",
     "prefer_related_applications": false,
